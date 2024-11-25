@@ -94,7 +94,7 @@ JuniorHub es una plataforma web diseñada para conectar programadores y diseñad
       <div>
        <h4>Backend</h4>
         <a href="https://www.linkedin.com/in/abel-montes-vega/" target="_blank" rel="author">
-          <img width="110" src="https://media.licdn.com/dms/image/v2/D4D03AQGUZl1TBu_bgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724166166376?e=1732147200&v=beta&t=LI4lFRVuIjR7wPaWazbsG_Fdw8pQ_U8Hyq0tY_rldoI"/>
+          <img width="110" src="https://media.licdn.com/dms/image/v2/D4D03AQGUZl1TBu_bgw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724166166352?e=1738195200&v=beta&t=cha3k12ec5BpvDNCHiMiLBkbi2SHzVTazeT7CxuWkA0"/>
         </a>
           <h4 style="margin-top: 1rem;">Abel <br>Montes Vega</h4>
         <div style='display: flex; flex-direction: column'>
