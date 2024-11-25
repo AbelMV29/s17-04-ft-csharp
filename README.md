@@ -25,10 +25,6 @@ JuniorHub es una plataforma web diseñada para conectar programadores y diseñad
 - Aplicación a proyectos.
 - Evaluación y calificación de employers tras la finalización del proyecto, con la posibilidad de dejar comentarios y reseñas.
 
-## 🌐 Deploy Frontend
-- [![JuniorHub Employer](https://img.shields.io/badge/EMPLOYER-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://junior-hub-employer.vercel.app/)
-- [![JuniorHub Freelancer](https://img.shields.io/badge/FREELANCER-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://junior-hub-freelancer.vercel.app/)
-
 ## 🗂️ Base de Datos
 
 - [Documentación de Base de Datos](https://dbdocs.io/olezdev/JuniorHub)
@@ -100,7 +96,7 @@ JuniorHub es una plataforma web diseñada para conectar programadores y diseñad
         <a href="https://www.linkedin.com/in/abel-montes-vega/" target="_blank" rel="author">
           <img width="110" src="https://media.licdn.com/dms/image/v2/D4D03AQGUZl1TBu_bgw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724166166376?e=1732147200&v=beta&t=LI4lFRVuIjR7wPaWazbsG_Fdw8pQ_U8Hyq0tY_rldoI"/>
         </a>
-          <h4 style="margin-top: 1rem;">Abel <br>Montes</h4>
+          <h4 style="margin-top: 1rem;">Abel <br>Montes Vega</h4>
         <div style='display: flex; flex-direction: column'>
           <a href="https://www.linkedin.com/in/abel-montes-vega/" target="_blank">
             <img style='width:8rem' src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)"/>
